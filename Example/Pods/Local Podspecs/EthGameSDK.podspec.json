@@ -1,0 +1,22 @@
+{
+  "name": "EthGameSDK",
+  "version": "0.1.0",
+  "summary": "A short description of EthGameSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/s-matthew-english/EthGameSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "s-matthew-english": "s.matthew.english@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/s-matthew-english/EthGameSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EthGameSDK/Classes/**/*"
+}

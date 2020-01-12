@@ -1,0 +1,16 @@
+PODS:
+  - EthGameSDK (0.1.0)
+
+DEPENDENCIES:
+  - EthGameSDK (from `../`)
+
+EXTERNAL SOURCES:
+  EthGameSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EthGameSDK: a4c1eb603660abf49a4050d434672ff85417ed08
+
+PODFILE CHECKSUM: 19d38f92a469cc57cc49fe9b59cc27144fb5f5c2
+
+COCOAPODS: 1.8.4

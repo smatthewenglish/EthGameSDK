@@ -1,0 +1,6 @@
+framework module EthGameSDK {
+  umbrella header "EthGameSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
