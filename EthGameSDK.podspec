@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EthGameSDK'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'Ethereum SDK for In-Game Asset Ownership'
 
 # This description is used to generate tags and improve search results.
