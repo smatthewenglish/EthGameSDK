@@ -22,8 +22,7 @@ pod 'EthGameSDK'
 
 ## Author
 
-S. Matthew English<br/>
-`matthew@tschess.io`
+S. Matthew English: `matthew@tschess.io`
 
 ## License
 
