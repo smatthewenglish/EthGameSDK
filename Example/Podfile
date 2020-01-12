@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EthGameSDK_Example' do
+  pod 'EthGameSDK', :path => '../'
+
+  target 'EthGameSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
