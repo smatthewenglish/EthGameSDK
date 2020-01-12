@@ -1,6 +1,6 @@
 # EthGameSDK
 
-[![CI Status](https://img.shields.io/travis/s-matthew-english/EthGameSDK.svg?style=flat)](https://travis-ci.org/s-matthew-english/EthGameSDK)
+[![CI Status](https://img.shields.io/travis/tschess/EthGameSDK.svg?style=flat)](https://travis-ci.org/tschess/EthGameSDK)
 [![Version](https://img.shields.io/cocoapods/v/EthGameSDK.svg?style=flat)](https://cocoapods.org/pods/EthGameSDK)
 [![License](https://img.shields.io/cocoapods/l/EthGameSDK.svg?style=flat)](https://cocoapods.org/pods/EthGameSDK)
 [![Platform](https://img.shields.io/cocoapods/p/EthGameSDK.svg?style=flat)](https://cocoapods.org/pods/EthGameSDK)

@@ -24,7 +24,7 @@ EthGameSDK is a mobile SDK framework for in-game asset ownership; leveraging the
   s.homepage         = 'https://github.com/tschess/EthGameSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 's-matthew-english' => 'matthew@tschess.io' }
+  s.author           = { 'smatthewenglish' => 'matthew@tschess.io' }
   s.source           = { :git => 'https://github.com/tschess/EthGameSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

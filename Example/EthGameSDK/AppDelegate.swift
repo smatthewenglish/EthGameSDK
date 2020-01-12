@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  EthGameSDK
 //
-//  Created by s-matthew-english on 01/12/2020.
-//  Copyright (c) 2020 s-matthew-english. All rights reserved.
+//  Created by S. Matthew English on 01/12/2020.
+//  Copyright (c) 2020 S. Matthew English. All rights reserved.
 //
 
 import UIKit

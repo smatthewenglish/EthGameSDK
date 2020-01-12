@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		08F927A3303F2C679B103BC0 /* Pods-EthGameSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EthGameSDK_Tests.release.xcconfig"; path = "Target Support Files/Pods-EthGameSDK_Tests/Pods-EthGameSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		0A07F8676663B4E3A69C734E /* EthGameSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = EthGameSDK.podspec; path = ../EthGameSDK.podspec; sourceTree = "<group>"; };
+		0A07F8676663B4E3A69C734E /* EthGameSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EthGameSDK.podspec; path = ../EthGameSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		404AE479BE0857819DC77A80 /* Pods-EthGameSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EthGameSDK_Example.debug.xcconfig"; path = "Target Support Files/Pods-EthGameSDK_Example/Pods-EthGameSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5D1B51EB3114C91C572944B7 /* Pods_EthGameSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EthGameSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* EthGameSDK_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EthGameSDK_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -42,10 +42,10 @@
 		607FACE51AFB9204008FA782 /* EthGameSDK_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EthGameSDK_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		7B9629CE7959B95917F6C86E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7B9629CE7959B95917F6C86E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		7D4472F3061785868FCFBFD1 /* Pods-EthGameSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EthGameSDK_Tests.debug.xcconfig"; path = "Target Support Files/Pods-EthGameSDK_Tests/Pods-EthGameSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8CD26FDA6E1739ADD23F5319 /* Pods_EthGameSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EthGameSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9FE3FAF212D5D799E3B79283 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9FE3FAF212D5D799E3B79283 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		A815914A0486614D26D65A53 /* Pods-EthGameSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EthGameSDK_Example.release.xcconfig"; path = "Target Support Files/Pods-EthGameSDK_Example/Pods-EthGameSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,7 +86,6 @@
 				7D4472F3061785868FCFBFD1 /* Pods-EthGameSDK_Tests.debug.xcconfig */,
 				08F927A3303F2C679B103BC0 /* Pods-EthGameSDK_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
