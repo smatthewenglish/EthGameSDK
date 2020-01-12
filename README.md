@@ -1,6 +1,5 @@
 # EthGameSDK
 
-[![CI Status](https://img.shields.io/travis/adamgolczak/GoogleMD-Icons.svg?style=flat)](https://travis-ci.org/adamgolczak/GoogleMD-Icons)
 [![Version](https://img.shields.io/cocoapods/v/EthGameSDK.svg?style=flat)](https://cocoapods.org/pods/EthGameSDK)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/cocoapods/p/EthGameSDK.svg?style=flat)](https://cocoapods.org/pods/EthGameSDK)
